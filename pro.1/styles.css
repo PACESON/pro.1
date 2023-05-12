@@ -1,0 +1,44 @@
+body {
+  display: block;
+  margin: 8px;
+}
+
+h1, h2, h3, p {
+  font-family: Helvetica;
+}
+
+h1 {
+    display: block; 
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url("images/pattern.jpeg");
+}
+
+#brushes {
+  background-color: MediumSpringGreen;
+}
+
+#paint {
+  background-color: skyblue;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+h2 {
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.price {
+  color: blue;
+  font-weight: bold;
+}
+
